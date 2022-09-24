@@ -1,2 +1,9 @@
-# Nitro-sniper
-This is a ez nitro sniper for you that need
+Info:
+
+Main Discord Server: https://discord.gg/zujURtdRwP
+
+Backup Discord Server: https://discord.gg/VC8NASNnZj
+
+Developer/Owner: blob#0005
+
+Github: https://github.com/blob0005
