@@ -1,9 +1,5 @@
 Info:
 
-Main Discord Server: https://discord.gg/zujURtdRwP
+Discord: !                   2𝓹𝓪𝓬_𝓡9웃#8431
 
-Backup Discord Server: https://discord.gg/VC8NASNnZj
-
-Developer/Owner: blob#0005
-
-Github: https://github.com/blob0005
+Developer: 2PacR99
